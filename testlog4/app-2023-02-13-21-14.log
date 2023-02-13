@@ -1,0 +1,8 @@
+2023-02-13 21:14:18,324 FATAL c.p.HelloWorld [main] Fatal level event!!
+2023-02-13 21:14:18,354 ERROR c.p.HelloWorld [main] Error level event!!
+2023-02-13 21:14:18,354 WARN c.p.HelloWorld [main] Warn level event!!
+2023-02-13 21:14:18,354 INFO c.p.HelloWorld [main] info level event!!
+2023-02-13 21:14:18,354 DEBUG c.p.HelloWorld [main] Debug level event!!
+2023-02-13 21:14:18,354 TRACE c.p.HelloWorld [main] Trace level event!!
+2023-02-13 21:14:18,355 INFO c.p.HelloWorld [main] addition method started
+2023-02-13 21:14:18,359 INFO c.p.HelloWorld [main] Result is 1012312342

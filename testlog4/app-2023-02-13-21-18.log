@@ -1,0 +1,8 @@
+2023-02-13 21:18:35,373 FATAL c.p.HelloWorld {transaction Id : =123123123123123} [main] Fatal level event!!
+2023-02-13 21:18:35,383 ERROR c.p.HelloWorld {transaction Id : =123123123123123} [main] Error level event!!
+2023-02-13 21:18:35,383 WARN c.p.HelloWorld {transaction Id : =123123123123123} [main] Warn level event!!
+2023-02-13 21:18:35,383 INFO c.p.HelloWorld {transaction Id : =123123123123123} [main] info level event!!
+2023-02-13 21:18:35,384 DEBUG c.p.HelloWorld {transaction Id : =123123123123123} [main] Debug level event!!
+2023-02-13 21:18:35,384 TRACE c.p.HelloWorld {transaction Id : =123123123123123} [main] Trace level event!!
+2023-02-13 21:18:35,384 INFO c.p.HelloWorld {transaction Id : =123123123123123} [main] addition method started
+2023-02-13 21:18:35,407 INFO c.p.HelloWorld {transaction Id : =123123123123123} [main] Result is 1012312342
