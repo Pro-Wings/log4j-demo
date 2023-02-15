@@ -3,7 +3,7 @@
 	<groupId>com.prowings</groupId>
 	<artifactId>log4j-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+	<!-- this is demo project for log4j2 -->
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
